@@ -8,7 +8,8 @@ const Contact = () => {
 
       {/* Feedback Form */}
       <div className="bg-white shadow-lg rounded-lg p-8 mb-8">
-        <h2 className="text-2xl font-semibold mb-6">We'd Love Your Feedback</h2>
+      <h2 className="text-2xl font-semibold mb-6">We&apos;d Love Your Feedback</h2>
+
         <form>
           <div className="mb-4">
             <label className="block text-sm font-medium mb-2" htmlFor="name">Your Name</label>
